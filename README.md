@@ -59,7 +59,7 @@
 ### 🔥 Popular Tools
 
 - **Chat**: ChatGPT, Claude, Gemini, Kimi, Wenxin Yiyan, etc.
-- **Image**: Midjourney, Stable Diffusion, DALL·E 3, Firefly, etc.
+- **Image**: Midjourney, Stable Diffusion, DALL·E 3, Firefly, [GPT Image 2](https://gptimage2.asia/), etc.
 - **Coding**: GitHub Copilot, Cursor, v0, Codeium, etc.
 - **Video**: Runway, Pika, Synthesia, HeyGen, etc.
 - **Music**: Suno, Udio, AIVA, etc.
